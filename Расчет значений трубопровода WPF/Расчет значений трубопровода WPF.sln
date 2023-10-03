@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Расчет значений трубопровода WPF", "Расчет значений трубопровода WPF\Расчет значений трубопровода WPF.csproj", "{88C5658F-B2FA-4650-A471-0A447CEB2448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88C5658F-B2FA-4650-A471-0A447CEB2448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C5658F-B2FA-4650-A471-0A447CEB2448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C5658F-B2FA-4650-A471-0A447CEB2448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C5658F-B2FA-4650-A471-0A447CEB2448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BCC760E-97E4-4660-8469-53557D3733D1}
+	EndGlobalSection
+EndGlobal
